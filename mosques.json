@@ -1,0 +1,880 @@
+{
+  "version": 1,
+  "updated": "2026-03-08",
+  "mosques": [
+    {
+      "id": "zakaria-dewsbury",
+      "name": "Zakaria Masjid",
+      "town": "Dewsbury",
+      "county": "West Yorkshire",
+      "address": "2 Chapel Street, Dewsbury WF12 9NQ",
+      "lat": 53.6897,
+      "lng": -1.6332,
+      "jamaat": {
+        "fajr": "04:51",
+        "zuhr": "12:27",
+        "asr": "15:26",
+        "maghrib": 10,
+        "isha": "19:58"
+      },
+      "jummah": "12:40",
+      "jummah2": "13:30",
+      "verified": true
+    },
+    {
+      "id": "masjid-e-zakariya",
+      "name": "Masjid-e-Zakariya",
+      "town": "Dewsbury",
+      "county": "West Yorkshire",
+      "address": "Savile Town, Dewsbury WF12",
+      "lat": 53.6874,
+      "lng": -1.628,
+      "jamaat": {
+        "fajr": "05:15",
+        "zuhr": "13:30",
+        "asr": "17:15",
+        "maghrib": 10,
+        "isha": "20:00"
+      },
+      "jummah": "13:30",
+      "jummah2": null,
+      "verified": true
+    },
+    {
+      "id": "islam-dewsbury",
+      "name": "Islam Dewsbury",
+      "town": "Dewsbury",
+      "county": "West Yorkshire",
+      "address": "Stoney Bank Street, Dewsbury",
+      "lat": 53.6889,
+      "lng": -1.631,
+      "jamaat": {
+        "fajr": "05:20",
+        "zuhr": "12:40",
+        "asr": "16:00",
+        "maghrib": 0,
+        "isha": "20:00"
+      },
+      "jummah": "12:40",
+      "jummah2": "13:00",
+      "verified": true
+    },
+    {
+      "id": "masjid-al-hidayah",
+      "name": "Masjid Al Hidayah",
+      "town": "Dewsbury",
+      "county": "West Yorkshire",
+      "address": "Headfield Road, Savile Town, Dewsbury",
+      "lat": 53.6868,
+      "lng": -1.6295,
+      "jamaat": {
+        "fajr": "05:15",
+        "zuhr": "12:35",
+        "asr": "17:30",
+        "maghrib": 0,
+        "isha": "20:30"
+      },
+      "jummah": "12:35",
+      "jummah2": null,
+      "verified": true
+    },
+    {
+      "id": "masjid-e-umar",
+      "name": "Masjid-e-Umar",
+      "town": "Dewsbury",
+      "county": "West Yorkshire",
+      "address": "North View, Savile Town, Dewsbury WF12 9LF",
+      "lat": 53.6863,
+      "lng": -1.6318,
+      "jamaat": {
+        "fajr": "05:01",
+        "zuhr": "12:45",
+        "asr": "16:45",
+        "maghrib": 5,
+        "isha": "19:45"
+      },
+      "jummah": "12:45",
+      "jummah2": null,
+      "verified": true
+    },
+    {
+      "id": "ita-dewsbury",
+      "name": "Islamic Tarbiyah Academy (ITA)",
+      "town": "Dewsbury",
+      "county": "West Yorkshire",
+      "address": "45 Boothroyd Lane, Dewsbury WF13 2RB",
+      "lat": 53.6972,
+      "lng": -1.6654,
+      "jamaat": {
+        "fajr": "04:51",
+        "zuhr": "13:00",
+        "asr": "17:00",
+        "maghrib": 0,
+        "isha": "20:15"
+      },
+      "jummah": "13:00",
+      "jummah2": null,
+      "verified": true
+    },
+    {
+      "id": "ilahi-masjid",
+      "name": "Ilahi Masjid",
+      "town": "Dewsbury",
+      "county": "West Yorkshire",
+      "address": "Savile Town, Dewsbury",
+      "lat": 53.688,
+      "lng": -1.629,
+      "jamaat": {
+        "fajr": "04:56",
+        "zuhr": "13:30",
+        "asr": "16:45",
+        "maghrib": 0,
+        "isha": "20:15"
+      },
+      "jummah": "13:30",
+      "jummah2": null,
+      "verified": true
+    },
+    {
+      "id": "madressah-al-hira",
+      "name": "Madressah Al Hira",
+      "town": "Dewsbury",
+      "county": "West Yorkshire",
+      "address": "Savile Town, Dewsbury",
+      "lat": 53.6865,
+      "lng": -1.63,
+      "jamaat": {
+        "fajr": "05:03",
+        "zuhr": "12:30",
+        "asr": "16:00",
+        "maghrib": 0,
+        "isha": "20:00"
+      },
+      "jummah": "12:30",
+      "jummah2": null,
+      "verified": true
+    },
+    {
+      "id": "madressah-mahmoodia-dewsbury",
+      "name": "Madressah Mahmoodia",
+      "town": "Dewsbury",
+      "county": "West Yorkshire",
+      "address": "Savile Town, Dewsbury",
+      "lat": 53.687,
+      "lng": -1.6285,
+      "jamaat": {
+        "fajr": "04:51",
+        "zuhr": "15:00",
+        "asr": "16:30",
+        "maghrib": 0,
+        "isha": "20:00"
+      },
+      "jummah": "15:00",
+      "jummah2": null,
+      "verified": true
+    },
+    {
+      "id": "masjid-rahman",
+      "name": "Masjid Rahman",
+      "town": "Dewsbury",
+      "county": "West Yorkshire",
+      "address": "Savile Town, Dewsbury",
+      "lat": 53.6858,
+      "lng": -1.6275,
+      "jamaat": {
+        "fajr": "04:56",
+        "zuhr": "13:00",
+        "asr": "16:00",
+        "maghrib": 0,
+        "isha": "20:00"
+      },
+      "jummah": "13:00",
+      "jummah2": null,
+      "verified": true
+    },
+    {
+      "id": "masjid-salaam",
+      "name": "Masjid Salaam",
+      "town": "Dewsbury",
+      "county": "West Yorkshire",
+      "address": "Savile Town, Dewsbury",
+      "lat": 53.6876,
+      "lng": -1.6265,
+      "jamaat": {
+        "fajr": "05:01",
+        "zuhr": "13:00",
+        "asr": "16:30",
+        "maghrib": 0,
+        "isha": "20:00"
+      },
+      "jummah": "13:00",
+      "jummah2": null,
+      "verified": true
+    },
+    {
+      "id": "masjid-talha",
+      "name": "Masjid Talha",
+      "town": "Dewsbury",
+      "county": "West Yorkshire",
+      "address": "Savile Town, Dewsbury",
+      "lat": 53.6862,
+      "lng": -1.6258,
+      "jamaat": {
+        "fajr": "05:05",
+        "zuhr": "12:35",
+        "asr": "16:20",
+        "maghrib": 0,
+        "isha": "20:00"
+      },
+      "jummah": "12:35",
+      "jummah2": null,
+      "verified": true
+    },
+    {
+      "id": "masjid-umar-savile",
+      "name": "Masjid Umar (Savile Town)",
+      "town": "Dewsbury",
+      "county": "West Yorkshire",
+      "address": "Savile Town, Dewsbury",
+      "lat": 53.6855,
+      "lng": -1.6305,
+      "jamaat": {
+        "fajr": "04:56",
+        "zuhr": "12:45",
+        "asr": "16:30",
+        "maghrib": 0,
+        "isha": "20:00"
+      },
+      "jummah": "12:45",
+      "jummah2": null,
+      "verified": true
+    },
+    {
+      "id": "masjid-uthman",
+      "name": "Masjid Uthman",
+      "town": "Dewsbury",
+      "county": "West Yorkshire",
+      "address": "Savile Town, Dewsbury",
+      "lat": 53.6848,
+      "lng": -1.6292,
+      "jamaat": {
+        "fajr": "04:56",
+        "zuhr": "13:15",
+        "asr": "16:15",
+        "maghrib": 0,
+        "isha": "20:00"
+      },
+      "jummah": "13:15",
+      "jummah2": null,
+      "verified": true
+    },
+    {
+      "id": "markazul-ilmi",
+      "name": "Markazul Ilmi",
+      "town": "Dewsbury",
+      "county": "West Yorkshire",
+      "address": "Dewsbury",
+      "lat": 53.692,
+      "lng": -1.634,
+      "jamaat": {
+        "fajr": "04:56",
+        "zuhr": "12:30",
+        "asr": "16:15",
+        "maghrib": 0,
+        "isha": "20:00"
+      },
+      "jummah": "12:30",
+      "jummah2": null,
+      "verified": true
+    },
+    {
+      "id": "al-hashim-academy",
+      "name": "Al-Hashim Academy",
+      "town": "Batley",
+      "county": "West Yorkshire",
+      "address": "Batley",
+      "lat": 53.7152,
+      "lng": -1.6278,
+      "jamaat": {
+        "fajr": "05:01",
+        "zuhr": "14:45",
+        "asr": "16:45",
+        "maghrib": 0,
+        "isha": "20:00"
+      },
+      "jummah": "14:30",
+      "jummah2": "15:00",
+      "verified": true
+    },
+    {
+      "id": "al-ihsan-trust",
+      "name": "Al-Ihsan Trust",
+      "town": "Batley",
+      "county": "West Yorkshire",
+      "address": "Batley",
+      "lat": 53.7148,
+      "lng": -1.629,
+      "jamaat": {
+        "fajr": "04:56",
+        "zuhr": "12:15",
+        "asr": "16:45",
+        "maghrib": 0,
+        "isha": "20:00"
+      },
+      "jummah": "13:00",
+      "jummah2": null,
+      "verified": true
+    },
+    {
+      "id": "dawatal-islam",
+      "name": "Dawatal Islam Mosque",
+      "town": "Batley",
+      "county": "West Yorkshire",
+      "address": "Batley",
+      "lat": 53.716,
+      "lng": -1.6265,
+      "jamaat": {
+        "fajr": "04:58",
+        "zuhr": "13:00",
+        "asr": "16:30",
+        "maghrib": 0,
+        "isha": "20:00"
+      },
+      "jummah": "13:00",
+      "jummah2": null,
+      "verified": true
+    },
+    {
+      "id": "jame-masjid-batley",
+      "name": "Jame Masjid",
+      "town": "Batley",
+      "county": "West Yorkshire",
+      "address": "Batley",
+      "lat": 53.7145,
+      "lng": -1.63,
+      "jamaat": {
+        "fajr": "05:06",
+        "zuhr": "13:00",
+        "asr": "16:30",
+        "maghrib": 0,
+        "isha": "20:00"
+      },
+      "jummah": "13:00",
+      "jummah2": null,
+      "verified": true
+    },
+    {
+      "id": "jumma-masjid-batley",
+      "name": "Jumma Masjid",
+      "town": "Batley",
+      "county": "West Yorkshire",
+      "address": "Batley",
+      "lat": 53.7138,
+      "lng": -1.6285,
+      "jamaat": {
+        "fajr": "04:56",
+        "zuhr": "12:35",
+        "asr": "16:45",
+        "maghrib": 0,
+        "isha": "20:00"
+      },
+      "jummah": "12:35",
+      "jummah2": null,
+      "verified": true
+    },
+    {
+      "id": "madina-masjid-batley",
+      "name": "Madina Masjid",
+      "town": "Batley",
+      "county": "West Yorkshire",
+      "address": "Batley",
+      "lat": 53.7155,
+      "lng": -1.627,
+      "jamaat": {
+        "fajr": "04:56",
+        "zuhr": "13:00",
+        "asr": "16:30",
+        "maghrib": 0,
+        "isha": "20:00"
+      },
+      "jummah": "13:00",
+      "jummah2": null,
+      "verified": true
+    },
+    {
+      "id": "madrasah-islamiyah-batley",
+      "name": "Madrasah Islamiyah",
+      "town": "Batley",
+      "county": "West Yorkshire",
+      "address": "Batley",
+      "lat": 53.7142,
+      "lng": -1.6258,
+      "jamaat": {
+        "fajr": "04:56",
+        "zuhr": "14:50",
+        "asr": "16:30",
+        "maghrib": 0,
+        "isha": "20:00"
+      },
+      "jummah": "14:50",
+      "jummah2": null,
+      "verified": true
+    },
+    {
+      "id": "masjid-noor-batley",
+      "name": "Masjid Noor",
+      "town": "Batley",
+      "county": "West Yorkshire",
+      "address": "Batley",
+      "lat": 53.7162,
+      "lng": -1.6248,
+      "jamaat": {
+        "fajr": "04:56",
+        "zuhr": "12:35",
+        "asr": "16:45",
+        "maghrib": 0,
+        "isha": "20:00"
+      },
+      "jummah": "12:35",
+      "jummah2": null,
+      "verified": true
+    },
+    {
+      "id": "masjid-hilal-batley",
+      "name": "Masjid Hilal",
+      "town": "Batley",
+      "county": "West Yorkshire",
+      "address": "Batley",
+      "lat": 53.7135,
+      "lng": -1.6312,
+      "jamaat": {
+        "fajr": "04:56",
+        "zuhr": "13:00",
+        "asr": "16:45",
+        "maghrib": 0,
+        "isha": "20:00"
+      },
+      "jummah": "13:00",
+      "jummah2": null,
+      "verified": true
+    },
+    {
+      "id": "masjid-mahmoodia-batley",
+      "name": "Masjid Mahmoodia",
+      "town": "Batley",
+      "county": "West Yorkshire",
+      "address": "Batley",
+      "lat": 53.7168,
+      "lng": -1.626,
+      "jamaat": {
+        "fajr": "04:56",
+        "zuhr": "13:00",
+        "asr": "16:30",
+        "maghrib": 0,
+        "isha": "20:00"
+      },
+      "jummah": "13:00",
+      "jummah2": null,
+      "verified": true
+    },
+    {
+      "id": "masjid-noor-ul-islam",
+      "name": "Masjid Noor-ul-Islam",
+      "town": "Batley",
+      "county": "West Yorkshire",
+      "address": "Batley",
+      "lat": 53.713,
+      "lng": -1.6278,
+      "jamaat": {
+        "fajr": "05:05",
+        "zuhr": "13:00",
+        "asr": "16:30",
+        "maghrib": 0,
+        "isha": "20:00"
+      },
+      "jummah": "13:00",
+      "jummah2": null,
+      "verified": true
+    },
+    {
+      "id": "masjid-quba-batley",
+      "name": "Masjid Quba",
+      "town": "Batley",
+      "county": "West Yorkshire",
+      "address": "Batley",
+      "lat": 53.7175,
+      "lng": -1.629,
+      "jamaat": {
+        "fajr": "05:01",
+        "zuhr": "13:10",
+        "asr": "16:30",
+        "maghrib": 0,
+        "isha": "20:00"
+      },
+      "jummah": "13:10",
+      "jummah2": null,
+      "verified": true
+    },
+    {
+      "id": "masjid-rashideen",
+      "name": "Masjid Rashideen",
+      "town": "Batley",
+      "county": "West Yorkshire",
+      "address": "Batley",
+      "lat": 53.7128,
+      "lng": -1.6295,
+      "jamaat": {
+        "fajr": "04:56",
+        "zuhr": "12:45",
+        "asr": "16:30",
+        "maghrib": 0,
+        "isha": "20:00"
+      },
+      "jummah": "12:45",
+      "jummah2": "13:30",
+      "verified": true
+    },
+    {
+      "id": "masjid-taqwa-batley",
+      "name": "Masjid Taqwa",
+      "town": "Batley",
+      "county": "West Yorkshire",
+      "address": "Batley",
+      "lat": 53.714,
+      "lng": -1.6302,
+      "jamaat": {
+        "fajr": "04:56",
+        "zuhr": "13:30",
+        "asr": "16:30",
+        "maghrib": 0,
+        "isha": "20:00"
+      },
+      "jummah": "13:30",
+      "jummah2": null,
+      "verified": true
+    },
+    {
+      "id": "masjid-ummah-batley",
+      "name": "Masjid Ummah",
+      "town": "Batley",
+      "county": "West Yorkshire",
+      "address": "Batley",
+      "lat": 53.7122,
+      "lng": -1.6268,
+      "jamaat": {
+        "fajr": "05:18",
+        "zuhr": "13:30",
+        "asr": "16:30",
+        "maghrib": 0,
+        "isha": "20:15"
+      },
+      "jummah": "13:30",
+      "jummah2": null,
+      "verified": true
+    },
+    {
+      "id": "upper-soothill-ic",
+      "name": "Upper Soothill Islamic Centre",
+      "town": "Batley",
+      "county": "West Yorkshire",
+      "address": "Upper Soothill, Batley",
+      "lat": 53.7115,
+      "lng": -1.6255,
+      "jamaat": {
+        "fajr": "04:56",
+        "zuhr": "12:35",
+        "asr": "16:30",
+        "maghrib": 0,
+        "isha": "20:00"
+      },
+      "jummah": "12:35",
+      "jummah2": null,
+      "verified": true
+    },
+    {
+      "id": "makki-masjid-heckmondwike",
+      "name": "Makki Masjid",
+      "town": "Heckmondwike",
+      "county": "West Yorkshire",
+      "address": "Heckmondwike",
+      "lat": 53.7068,
+      "lng": -1.6685,
+      "jamaat": {
+        "fajr": "05:15",
+        "zuhr": "13:30",
+        "asr": "16:30",
+        "maghrib": 0,
+        "isha": "20:00"
+      },
+      "jummah": "13:30",
+      "jummah2": null,
+      "verified": true
+    },
+    {
+      "id": "masjid-ali-heckmondwike",
+      "name": "Masjid Ali",
+      "town": "Heckmondwike",
+      "county": "West Yorkshire",
+      "address": "Heckmondwike",
+      "lat": 53.7055,
+      "lng": -1.6695,
+      "jamaat": {
+        "fajr": "05:30",
+        "zuhr": "13:00",
+        "asr": "16:45",
+        "maghrib": 0,
+        "isha": "20:00"
+      },
+      "jummah": "13:00",
+      "jummah2": null,
+      "verified": true
+    },
+    {
+      "id": "ghausia-mirfield",
+      "name": "Ghausia Mosque",
+      "town": "Mirfield",
+      "county": "West Yorkshire",
+      "address": "Mirfield",
+      "lat": 53.6741,
+      "lng": -1.6939,
+      "jamaat": {
+        "fajr": "05:00",
+        "zuhr": "13:00",
+        "asr": "16:30",
+        "maghrib": 0,
+        "isha": "20:00"
+      },
+      "jummah": "13:00",
+      "jummah2": null,
+      "verified": false
+    },
+    {
+      "id": "bradford-jamiyat",
+      "name": "Jamiyat Tabligh ul Islam",
+      "town": "Bradford",
+      "county": "West Yorkshire",
+      "address": "Bradford",
+      "lat": 53.796,
+      "lng": -1.7594,
+      "jamaat": {
+        "fajr": "05:45",
+        "zuhr": "13:00",
+        "asr": "16:30",
+        "maghrib": 0,
+        "isha": "20:15"
+      },
+      "jummah": "13:00",
+      "jummah2": null,
+      "verified": true
+    },
+    {
+      "id": "bradford-grand",
+      "name": "Bradford Grand Mosque",
+      "town": "Bradford",
+      "county": "West Yorkshire",
+      "address": "Bradford",
+      "lat": 53.7946,
+      "lng": -1.7538,
+      "jamaat": {
+        "fajr": "05:45",
+        "zuhr": "13:00",
+        "asr": "16:30",
+        "maghrib": 0,
+        "isha": "20:15"
+      },
+      "jummah": "13:00",
+      "jummah2": null,
+      "verified": false
+    },
+    {
+      "id": "leeds-grand",
+      "name": "Leeds Grand Mosque",
+      "town": "Leeds",
+      "county": "West Yorkshire",
+      "address": "Woodsley Road, Leeds LS3 1DL",
+      "lat": 53.804,
+      "lng": -1.5594,
+      "jamaat": {
+        "fajr": "05:45",
+        "zuhr": "13:15",
+        "asr": "16:30",
+        "maghrib": 0,
+        "isha": "20:30"
+      },
+      "jummah": "13:15",
+      "jummah2": null,
+      "verified": true
+    },
+    {
+      "id": "leeds-islamic-centre",
+      "name": "Leeds Islamic Centre",
+      "town": "Leeds",
+      "county": "West Yorkshire",
+      "address": "Chapeltown Road, Leeds",
+      "lat": 53.8178,
+      "lng": -1.528,
+      "jamaat": {
+        "fajr": "05:45",
+        "zuhr": "13:15",
+        "asr": "16:30",
+        "maghrib": 0,
+        "isha": "20:30"
+      },
+      "jummah": "13:15",
+      "jummah2": null,
+      "verified": false
+    },
+    {
+      "id": "masjid-noor-huddersfield",
+      "name": "Masjid Noor",
+      "town": "Huddersfield",
+      "county": "West Yorkshire",
+      "address": "Huddersfield",
+      "lat": 53.645,
+      "lng": -1.7798,
+      "jamaat": {
+        "fajr": "05:10",
+        "zuhr": "13:00",
+        "asr": "16:30",
+        "maghrib": 0,
+        "isha": "20:15"
+      },
+      "jummah": "13:00",
+      "jummah2": null,
+      "verified": false
+    },
+    {
+      "id": "masjid-zakariya-wakefield",
+      "name": "Masjid Zakariya",
+      "town": "Wakefield",
+      "county": "West Yorkshire",
+      "address": "Agbrigg, Wakefield",
+      "lat": 53.68,
+      "lng": -1.494,
+      "jamaat": {
+        "fajr": "05:15",
+        "zuhr": "13:30",
+        "asr": "17:15",
+        "maghrib": 10,
+        "isha": "20:00"
+      },
+      "jummah": "13:30",
+      "jummah2": null,
+      "verified": true
+    },
+    {
+      "id": "masjid-noor-halifax",
+      "name": "Masjid Noor",
+      "town": "Halifax",
+      "county": "West Yorkshire",
+      "address": "Halifax",
+      "lat": 53.721,
+      "lng": -1.858,
+      "jamaat": {
+        "fajr": "05:10",
+        "zuhr": "13:00",
+        "asr": "16:30",
+        "maghrib": 0,
+        "isha": "20:15"
+      },
+      "jummah": "13:00",
+      "jummah2": null,
+      "verified": false
+    },
+    {
+      "id": "masjid-sunnah-sheffield",
+      "name": "Masjid Sunnah",
+      "town": "Sheffield",
+      "county": "South Yorkshire",
+      "address": "Sheffield",
+      "lat": 53.3811,
+      "lng": -1.4701,
+      "jamaat": {
+        "fajr": "05:30",
+        "zuhr": "13:15",
+        "asr": "16:30",
+        "maghrib": 0,
+        "isha": "20:30"
+      },
+      "jummah": "13:15",
+      "jummah2": null,
+      "verified": false
+    },
+    {
+      "id": "darnall-masjid",
+      "name": "Darnall Masjid",
+      "town": "Sheffield",
+      "county": "South Yorkshire",
+      "address": "Darnall, Sheffield",
+      "lat": 53.3852,
+      "lng": -1.4268,
+      "jamaat": {
+        "fajr": "05:30",
+        "zuhr": "13:15",
+        "asr": "16:30",
+        "maghrib": 0,
+        "isha": "20:30"
+      },
+      "jummah": "13:00",
+      "jummah2": null,
+      "verified": false
+    },
+    {
+      "id": "york-mosque",
+      "name": "York Mosque (MYAC)",
+      "town": "York",
+      "county": "North Yorkshire",
+      "address": "Haleys Terrace, York YO24 4HH",
+      "lat": 53.9591,
+      "lng": -1.0918,
+      "jamaat": {
+        "fajr": "05:50",
+        "zuhr": "13:00",
+        "asr": "16:15",
+        "maghrib": 0,
+        "isha": "20:15"
+      },
+      "jummah": "13:00",
+      "jummah2": null,
+      "verified": true
+    },
+    {
+      "id": "hull-masjid",
+      "name": "Hull Masjid & Islamic Centre",
+      "town": "Hull",
+      "county": "East Yorkshire",
+      "address": "Beverley Road, Hull",
+      "lat": 53.7618,
+      "lng": -0.3313,
+      "jamaat": {
+        "fajr": "05:45",
+        "zuhr": "13:15",
+        "asr": "16:15",
+        "maghrib": 0,
+        "isha": "20:15"
+      },
+      "jummah": "13:15",
+      "jummah2": null,
+      "verified": false
+    },
+    {
+      "id": "harrogate-mosque",
+      "name": "Harrogate Mosque",
+      "town": "Harrogate",
+      "county": "North Yorkshire",
+      "address": "Harrogate",
+      "lat": 53.9925,
+      "lng": -1.5406,
+      "jamaat": {
+        "fajr": "05:45",
+        "zuhr": "13:15",
+        "asr": "16:15",
+        "maghrib": 0,
+        "isha": "20:15"
+      },
+      "jummah": "13:15",
+      "jummah2": null,
+      "verified": false
+    }
+  ]
+}
